@@ -1,0 +1,7 @@
+{
+  "name": "slapo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
